@@ -1,0 +1,60 @@
+{
+  "timeZone": "America/Sao_Paulo",
+  "dependencies": {
+    "enabledAdvancedServices": [{
+      "userSymbol": "Drive",
+      "serviceId": "drive",
+      "version": "v3"
+    }, {
+      "userSymbol": "DriveLabels",
+      "serviceId": "drivelabels",
+      "version": "v2beta"
+    }, {
+      "userSymbol": "Sheets",
+      "serviceId": "sheets",
+      "version": "v4"
+    }, {
+      "userSymbol": "Gmail",
+      "serviceId": "gmail",
+      "version": "v1"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "teste01",
+      "functionName": "teste01"
+    }, {
+      "menuName": "SDAFSDF2Q34",
+      "functionName": "SDAFSDF2Q34"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "01",
+      "functionName": "_01"
+    }, {
+      "menuName": "02",
+      "functionName": "_02"
+    }, {
+      "menuName": "proteção",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "protecao",
+      "functionName": "protecao"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "´",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título 1",
+      "functionName": "myFunction1"
+    }]
+  }
+}
